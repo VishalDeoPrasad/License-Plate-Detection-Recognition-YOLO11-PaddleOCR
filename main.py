@@ -1,4 +1,4 @@
-#Import All the Required Libraries
+#Import All the Required
 from utils import (read_video, save_video)
 from detections import CarDetection, LicencePlateDetection
 
